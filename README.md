@@ -32,4 +32,4 @@ Cyclistic historical data is ROCCC.
 - **Current** - The data is updated and not obsolete. It contains historical data from January 2021 to December 2021.
 - **Cited** - The data is valid with a license.
 
-### Phase 3 - Data Pre-processing and so forth are done in a separate notebook
+### Phase 3 - Data pre-processing and so forth are done in a separate notebook.
