@@ -31,3 +31,5 @@ Cyclistic historical data is ROCCC.
 - **Comprehensive** - The information included in the data are comprehensive as the dates and time, stations, and bike types are included. However, to deep dive on the particular usage of different user types, having demographic profile of each user type is advantageous.
 - **Current** - The data is updated and not obsolete. It contains historical data from January 2021 to December 2021.
 - **Cited** - The data is valid with a license.
+
+### Phase 3 - Data Pre-processing and so forth are done in a separate notebook
